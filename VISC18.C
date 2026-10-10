@@ -48,5 +48,5 @@ printf(" the value of var3 is %c",var3[k]);
 printf(" and address is %d \n",&var3[k]);
 k++;
 }while(k<=4);
-getch();
+return 0;
 }
